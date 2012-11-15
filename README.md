@@ -1,4 +1,4 @@
-archipelago
+RUBBLES
 ===========
 
-Sample app that demonstrates HTTP concepts using plain rack apps.
+Sample apps that demonstrate basic HTTP concepts using plain rack apps.
